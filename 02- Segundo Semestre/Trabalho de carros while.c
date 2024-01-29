@@ -192,8 +192,6 @@ int main() {
             if (valor > valormedia) {
                 cont_precoF++;
             }
-        } else {
-            printf("Caracter invalido\n");
         }
 
         // Processamento combustivel
