@@ -5,7 +5,7 @@
 
 
  int lanche, bebida,qntLanche, qntBebida;
- float somaLanche, somaBebida, lanches,bebidas, 
+ float somaLanche, somaBebida, lanches,bebidas, somaTotal;
 
 int main()
 {
