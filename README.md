@@ -1,4 +1,8 @@
 # Faculdade
- Programas realializado nos meus períodos de graduação 
+---
+ Programas realializado durante meus anos de faculdade de ciências da computação 
 
-Para utilizar ou testar os demais materias recomendo a instalação do FALCON um editor e complidador de Linguagem C e C++
+1° Semestre introdução a algoritmos e inicio da introdução da linguagem C++, utilizando falcon como editor e compilador 
+2° Semestre aprofundamos na linguagem C++, aprendendo estrutura de repetição, condições, entrada e sáida de dados 
+3° Semestre iniciando o semestre com estrutura de dados e programação orientado a objeto em C# .NET
+
