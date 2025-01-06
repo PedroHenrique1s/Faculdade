@@ -1,0 +1,51 @@
+@model TarefaModel;
+<h2>App Tarefas</h2><hr>
+<div class="row mt-4">
+    <div class="col">
+        <div class="form-group">
+            <label asp-for="NomeTarefa" class="form-label mb-2">NOME DA TAREFA</label>
+            <input class="form-control" asp-for="NomeTarefa" placeholder="Digite o nome da tarefa">
+            <span class="small text-danger" asp-validation-for="NomeTarefa"></span>
+        </div>
+    </div>
+    <div class="col">
+        <label asp-for="StatusTarefa" class="form-label mb-2">STATUS DA TAREFA</label>
+        <select asp-for="StatusTarefa" class="form-select">
+            <option value="0" selected>PENDENTE</option>
+            <option value="1">CONCLUÍDA</option>
+        </select>
+    </div>
+</div>
+<div class="d-grid gap-2 mt-4">
+    <button class="btn btn-primary">SALVAR</button>
+</div>
+@if(TempData["mensagem"]!=null)
+{
+    <div class="alert alert-primary alert-dismissible mt-4">
+        @TempData["mensagem"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+@if(Model.ListaTarefas.Count > 0)
+{
+    <ul class="list-group mt-4">
+        @foreach(var tarefa in Model.ListaTarefas)
+        {
+            <li class="list-group-item p-3">
+                <div class="row">
+                    <div class="col d-flex align-items-center">@tarefa.Nome</div>
+                    <div class="col d-flex align-items-center justify-content-end">
+                        <div class="btn-group">
+                            @if(tarefa.Status == 0)
+                            {
+                                <a asp-action="Concluir" asp-route-id="@tarefa.Id" class="btn btn-primary">CONCLUIR</a>
+                            }
+                            <a asp-action="Editar" asp-route-id="@tarefa.Id" class="btn btn-primary">EDITAR</a>
+                            <a asp-action="Excluir" asp-route-id="@tarefa.Id" class="btn btn-primary">EXCLUIR</a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        }
+    </ul>
+}
