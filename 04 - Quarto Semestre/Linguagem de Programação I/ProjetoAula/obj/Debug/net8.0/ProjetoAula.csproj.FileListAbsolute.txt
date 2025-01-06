@@ -1,0 +1,90 @@
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\bin\Debug\net8.0\appsettings.json
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\bin\Debug\net8.0\ProjetoAula.staticwebassets.runtime.json
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\bin\Debug\net8.0\ProjetoAula.exe
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\bin\Debug\net8.0\ProjetoAula.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\bin\Debug\net8.0\ProjetoAula.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\bin\Debug\net8.0\ProjetoAula.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\bin\Debug\net8.0\ProjetoAula.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\ProjetoAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\ProjetoAula.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\ProjetoAula.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\ProjetoAula.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\ProjetoAula.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\ProjetoAula.RazorAssemblyInfo.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\ProjetoAula.RazorAssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoAula.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoAula.props
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoAula.props
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoAula.props
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\scopedcss\bundle\ProjetoAula.styles.css
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\scopedcss\projectbundle\ProjetoAula.bundle.scp.css
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\ProjetoAula.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\refint\ProjetoAula.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\ProjetoAula.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\ProjetoAula.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoAula\obj\Debug\net8.0\ref\ProjetoAula.dll
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\bin\Debug\net8.0\appsettings.json
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\bin\Debug\net8.0\ProjetoAula.staticwebassets.runtime.json
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\bin\Debug\net8.0\ProjetoAula.exe
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\bin\Debug\net8.0\ProjetoAula.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\bin\Debug\net8.0\ProjetoAula.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\bin\Debug\net8.0\ProjetoAula.dll
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\bin\Debug\net8.0\ProjetoAula.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\ProjetoAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\ProjetoAula.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\ProjetoAula.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\ProjetoAula.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\ProjetoAula.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\ProjetoAula.RazorAssemblyInfo.cache
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\ProjetoAula.RazorAssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoAula.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoAula.props
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoAula.props
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoAula.props
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\scopedcss\bundle\ProjetoAula.styles.css
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\scopedcss\projectbundle\ProjetoAula.bundle.scp.css
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\ProjetoAula.dll
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\refint\ProjetoAula.dll
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\ProjetoAula.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\ProjetoAula.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\CCO\ProjetoAula\obj\Debug\net8.0\ref\ProjetoAula.dll
+C:\Users\computacao\Desktop\ProjetoAula\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\computacao\Desktop\ProjetoAula\bin\Debug\net8.0\appsettings.json
+C:\Users\computacao\Desktop\ProjetoAula\bin\Debug\net8.0\ProjetoAula.staticwebassets.runtime.json
+C:\Users\computacao\Desktop\ProjetoAula\bin\Debug\net8.0\ProjetoAula.exe
+C:\Users\computacao\Desktop\ProjetoAula\bin\Debug\net8.0\ProjetoAula.deps.json
+C:\Users\computacao\Desktop\ProjetoAula\bin\Debug\net8.0\ProjetoAula.runtimeconfig.json
+C:\Users\computacao\Desktop\ProjetoAula\bin\Debug\net8.0\ProjetoAula.dll
+C:\Users\computacao\Desktop\ProjetoAula\bin\Debug\net8.0\ProjetoAula.pdb
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\ProjetoAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\ProjetoAula.AssemblyInfoInputs.cache
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\ProjetoAula.AssemblyInfo.cs
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\ProjetoAula.csproj.CoreCompileInputs.cache
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\ProjetoAula.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\ProjetoAula.RazorAssemblyInfo.cache
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\ProjetoAula.RazorAssemblyInfo.cs
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoAula.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoAula.props
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoAula.props
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoAula.props
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\scopedcss\bundle\ProjetoAula.styles.css
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\scopedcss\projectbundle\ProjetoAula.bundle.scp.css
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\ProjetoAula.dll
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\refint\ProjetoAula.dll
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\ProjetoAula.pdb
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\ProjetoAula.genruntimeconfig.cache
+C:\Users\computacao\Desktop\ProjetoAula\obj\Debug\net8.0\ref\ProjetoAula.dll

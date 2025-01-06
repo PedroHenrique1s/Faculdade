@@ -1,0 +1,80 @@
+@model Carrinho;
+
+<form method="post">
+    <div class="row">
+        <div class="col">
+            <div class="form-group">
+                <label asp-for="ProdutoSelecionado" class="form-label mb-2">PRODUTO</label>
+                <select class="form-select" asp-for="ProdutoSelecionado">
+                    <option value="0" selected>SELECIONE UM PRODUTO</option>
+                    @foreach (var produto in Model.ProdutosDisponiveis)
+                    {
+                        <option value="@produto.Codigo">@($"{produto.Nome} ({produto.Preco:C})")</option>
+                    }
+                </select>
+                <span asp-validation-for="ProdutoSelecionado" class="small text-danger"></span>
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label asp-for="QuantidadeSelecionada" class="form-label mb-2">QUANTIDADE</label>
+                <input type="number" class="form-control text-center" min="1" asp-for="QuantidadeSelecionada">
+            </div>
+        </div>
+    </div>
+    <div class="d-grid gap-2 mt-4">
+        <button class="btn btn-primary" asp-action="Adicionar">ADICIONAR AO CARRINHO</button>
+    </div>
+    @if(TempData["mensagem"] != null)
+    {
+        <div class="alert alert-primary alert-dismissible mt-4">
+            @TempData["mensagem"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+    <div class="row mt-4">
+        <div class="col">
+            <span class="display-6">TOTAL:</span>
+        </div>
+        <div class="col text-end">
+            <span class="display-6">
+                @Model.Total.ToString("C")
+            </span>
+        </div>
+    </div>
+    @if(Model.ItensCarrinho.Count > 0)
+    {
+        <ul class="list-group mt-4">
+            @foreach(var item in Model.ItensCarrinho)
+            {
+                <li class="list-group-item p-3">
+                    <div class="row">
+                        <div class="col d-flex align-items-center">
+                            @item.Produto.Nome
+                        </div>
+                        <div class="col d-flex justify-content-center">
+                            <div class="row">
+                                <div class="col d-flex align-items-center">
+                                    <a asp-action="Diminuir" class="link-primary text-decoration-none" asp-route-id="@item.Produto.Codigo">
+                                        <b style="font-size: large;">-</b>
+                                    </a>
+                                </div>
+                                <div class="col text-center d-flex align-items-center">
+                                    @item.Quantidade
+                                </div>
+                                <div class="col d-flex align-items-center">
+                                    <a asp-action="Aumentar" class="link-primary text-decoration-none" asp-route-id="@item.Produto.Codigo">
+                                        <b style="font-size: large;">+</b>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center justify-content-end">
+                            <a asp-action="Remover" class="link-primary text-decoration-none" asp-route-id="@item.Produto.Codigo">REMOVER</a>
+                        </div>
+                    </div>
+                </li>
+            }
+        </ul>
+    }
+</form>

@@ -1,0 +1,31 @@
+@model Calculadora;
+
+<form method="post">
+    <div class="row">
+        <div class="col">
+            <label asp-for="N1" class="form-label mb-2">PRIMEIRO NÚMERO</label>
+            <input class="form-control text-center" asp-for="N1" placeholder="Digite o primeiro número">
+            <span class="small text-danger" asp-validation-for="N1"></span>
+        </div>
+        <div class="col">
+            <label asp-for="N2" class="form-label mb-2">SEGUNDO NÚMERO</label>
+            <input class="form-control text-center" asp-for="N2" placeholder="Digite o segundo número">
+            <span class="small text-danger" asp-validation-for="N2"></span>
+        </div>
+    </div>
+    <div class="d-grid gap-2 mt-4">
+        <div class="btn-group">
+            <button class="btn btn-primary" asp-action="Somar">SOMAR</button>
+            <button class="btn btn-primary" asp-action="Subtrair">SUBTRAIR</button>
+            <button class="btn btn-primary" asp-action="Multiplicar">MULTIPLICAR</button>
+            <button class="btn btn-primary" asp-action="Dividir">DIVIDIR</button>
+        </div>
+    </div>
+    @if(TempData["resultado"]!=null)
+    {
+        <div class="alert alert-primary alert-dismissible mt-4">
+            @TempData["resultado"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+</form>

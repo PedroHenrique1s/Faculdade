@@ -1,0 +1,32 @@
+    @model Carrinho
+
+    @if (Context.Request.Cookies.ContainsKey("consentimento"))
+    {
+        @if (Context.Request.Cookies["consentimento"] == "true")
+        {
+            <h1>Carrinho de compras com cookies</h1>
+            <hr>
+            <partial name="_FormCarrinho" model="@Model" />
+        }
+        else
+        {
+            <div class="d-flex justify-content-center align-items-center" style="height: 100vh;">
+            <form class="alert alert-secondary p-3" method="post">
+                <h5>COOKIES</h5>
+                <p>Os cookies necessários para exibição do formulário foram rejeitados.<br>Para desfazer a ação clique em <b>ACEITAR</b></p>
+                <button class="btn btn-primary" asp-action="ConfigurarCookies" asp-route-consentimento="true">ACEITAR</button>
+            </form>
+        </div>
+        }
+    }
+    else
+    {
+        <div class="d-flex justify-content-center align-items-center" style="height: 100vh;">
+            <form class="alert alert-secondary p-3" method="post">
+                <h5>COOKIES</h5>
+                <p>Clique em <b>ACEITAR COOKIES</b> para experimentar todas as funcionalidades da página.</p>
+                <button class="btn btn-primary" asp-action="ConfigurarCookies" asp-route-consentimento="true">ACEITAR</button>
+                <button class="btn btn-primary" asp-action="ConfigurarCookies" asp-route-consentimento="false">REJEITAR</button>
+            </form>
+        </div>
+    }
